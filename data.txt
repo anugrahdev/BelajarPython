@@ -1,0 +1,5 @@
+ini adalah text nya
+ini baris ke1
+ini baris ke3
+ini baris ke4
+baris ini appending
